@@ -45,5 +45,5 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: output
-        path: /**  # Replace with the actual path to your CSV file
+        path: files  # Replace with the actual path to your CSV file
 
