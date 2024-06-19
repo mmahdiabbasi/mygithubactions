@@ -1,5 +1,5 @@
 yaml
-name: Python_application
+name: ci
 
 on:
   push:
