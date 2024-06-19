@@ -44,6 +44,6 @@ jobs:
     - name: Upload CSV file
       uses: actions/upload-artifact@v4
       with:
-        name: output-csv
-        path: path/to/your/output.csv  # Replace with the actual path to your CSV file
+        name: output
+        path: /**  # Replace with the actual path to your CSV file
 
